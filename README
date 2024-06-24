@@ -1,0 +1,9 @@
+We want to ultimately forecast power production in France. There are several websites where we can get the public dataset e.g. RTE, ENSOE,… This test requires candidates to crawl data and create a simple machine learning, deep learning model. 
+
+1. Crawl production and consumption energy data from RTE website: from 01/2012 to 05/2024  "https://www.rte-france.com/eco2mix/la-production-delectricite-par-filiere"
+
+2. Analyze the data (plot the curve; identify the share of each type of production technology in terms of capacity; which month has the highest level of aggregated production (distinguish by technology) and consumption).
+ 
+3. Predict the total energy production for 06/2024  
+
+Bonus:  how to serve the model?
